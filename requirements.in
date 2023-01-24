@@ -1,0 +1,5 @@
+Kodistubs
+pip-tools
+tox
+flake8
+black
